@@ -1,0 +1,4 @@
+# patikaStore
+React-Native 
+
+
